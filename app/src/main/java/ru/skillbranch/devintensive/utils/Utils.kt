@@ -53,10 +53,6 @@ object Utils {
         return newStr
     }
 
-    fun transliteration(payload: String): String {
-
-        return "todo"
-    }
 
     fun toInitials(firstName: String?, lastName: String?): String? {
         var Initials = ""
